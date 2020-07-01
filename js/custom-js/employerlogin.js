@@ -63,7 +63,7 @@ function loadButton() {
 function revertButton() {
 	const buttonDiv = document.querySelector("#button-div");
 	buttonDiv.innerHTML = `
- <button class="btn btn-primary btn-block btn-color py-3 mt-3 mb-4" id="signup-btn" type="submit">Sign Up</button>
+ <button class="btn btn-primary btn-block btn-color py-3 mt-3 mb-4" id="signup-btn" type="submit">Log in</button>
  `;
 }
 
